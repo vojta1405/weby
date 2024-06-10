@@ -1,0 +1,28 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.colored-line {
+    padding: 0;
+    margin: 0;
+    border: none;
+    height: 10px; /* Adjust the thickness of the line */
+    background-color: #15377B; /* Change this color to your preferred color */
+}
+.text-special{
+    font-size: 40px;
+    color: #c21e1d;
+    text-align: center;
+    font-weight: 900;
+    background: white;
+    display: block;
+    margin: 0;
+}
+.vzs_logo{
+    position: absolute;
+    left: 10%;
+    top: 30px;
+    width: 176px;
+    height: 176px;
+    z-index: 3;
+}
